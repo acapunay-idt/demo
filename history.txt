@@ -1,0 +1,887 @@
+    1  cd
+    2  pwd
+    3  cd "/Users/acapunay/Documents/Programming Java"
+    4  cd "/Users/acapunay/Documents/Java Programming"
+    5  man sudo
+    6  pwd
+    7  whoami
+    8  hostname
+    9  cd "/Users/acapunay/Documents/Programming Java"
+   10  cd "/Users/acapunay/Documents/Java Programming"
+   11  exit
+   12  cd "/Users/acapunay/Documents/Java Programming"
+   13  diskutil secureErase freespace 3 /Volumes/name-of-drive
+   14  cd /Volumes/
+   15  ls
+   16  diskutil secureErase freespace 3 /Volumes/Macintosh\ HD
+   17  cd "/Users/acapunay/Documents/Java Programming"
+   18  killall Terminal
+   19  cd "/Users/acapunay/Documents/Java Programming"
+   20  java LIncoln
+   21  java Lincoln
+   22  killall Terminal
+   23  cd "/Users/acapunay/Documents/Java Programming"
+   24  clear
+   25  man killall
+   26  killall -s Adobe
+   27  killall -s "Adobe Reader"
+   28  ps -ax
+   29  clear
+   30  ps -ax | grep Adobe
+   31  killall -s 938
+   32  man killall
+   33  kill -s 938
+   34  kill -l
+   35  top
+   36  killall -s AdobeReader
+   37  man kill
+   38  killall AdobeReader
+   39  open man
+   40  man open
+   41  open /Applications/AdobeReader
+   42  open /Applications/AdobeReader.app
+   43  open /Applications/Adobe\ Reader.app
+   44  oepn /Applications/iTunes.app
+   45  open /Applications/iTunes.app
+   46  killall Terminal
+   47  clear
+   48  cd "/Users/acapunay/Documents/Java Programming"
+   49  say "Kali I love you"
+   50  say "Kali you have a big booty"
+   51  say "Go to Class
+   52  say "Go to Class"
+   53  killall Safari
+   54  killall Terminal
+   55  clear
+   56  pwd
+   57  cd "/Users/acapunay/Documents/Java Programming"
+   58  pwd
+   59  diskutil secureErase freespace 3 /Volumes/Macintosh\ HD
+   60  cd "/Users/acapunay/Documents/Java Programming"
+   61  man diskutil
+   62  diskutil secureErase freespace 3 /Volumes/Macintosh\ HD
+   63  killall iTunes
+   64  killall Safari
+   65  killall Terminal
+   66  cd "/Users/acapunay/Documents/Java Programming"
+   67  diskutil secureErase freespace 3 /Volumes/Macintosh\ HD
+   68  cd "/Users/acapunay/Documents/Java Programming"
+   69  javac Test.java
+   70  java Test
+   71  java Lincoln
+   72  javac test.java
+   73  java test
+   74  javac Test.java
+   75  java Test
+   76  javac Test.java
+   77  clear
+   78  java Test
+   79  javac Test.java
+   80  java Test
+   81  clear
+   82  javac Test.java
+   83  java Test
+   84  javac Test.java
+   85  java Test
+   86  javac Test.java
+   87  java Test
+   88  clear
+   89  javac PP13.java
+   90  java PP13
+   91  javac PP14.java
+   92  java PP14
+   93  javac PP14.java
+   94  java PP14
+   95  javac PP14.java
+   96  java PP14
+   97  clear
+   98  javac PP19.java
+   99  java PP19
+  100  javac PP19.java
+  101  javac Countdown.java
+  102  java Countdown
+  103  /Applications/jEdit.app/Contents/Resources/Java/startup/startup.bsh
+  104  /Applications/jEdit.app/Contents/Java/startup/startup.bsh
+  105  man nano
+  106  man sudo
+  107  nano /Applications/jEdit.app/Contents/Java/startup/startup.bsh
+  108  java Countdown
+  109  clear
+  110  nano /Applications/jEdit.app/Contents/Java/startup/startup.bsh
+  111  killall 
+  112  killall Terminal
+  113  cd "/Users/acapunay/Documents/Java Programming"
+  114  clear
+  115  killall jEdit
+  116  killall Safari
+  117  killall Terminal
+  118  clear
+  119  ccd "/Users/acapunay/Documents/Java Programming"
+  120  who am i
+  121  whoami
+  122  killall Terminal
+  123  cd "/Users/acapunay/Documents/Java Programming"
+  124  clear
+  125  s
+  126  ls
+  127  pwd
+  128  less Lincoln.java
+  129  less Lincoln.class
+  130  top
+  131  pwd
+  132  ls
+  133  exit
+  134  killall Xcode
+  135  cd "/Users/acapunay/Documents/Java Programming"
+  136  exit
+  137  cd "/Users/acapunay/Documents/Java Programming"
+  138  top
+  139  whoami
+  140  pwd
+  141  whoami
+  142  top
+  143  man top
+  144  man whoami
+  145  man id
+  146  id
+  147  clear
+  148  killall Safari
+  149  top
+  150  man top
+  151  top -o cpu
+  152  cd "/Users/acapunay/Documents/Java Programming"
+  153  killall Word
+  154  top
+  155  killall Terminal
+  156  cd "/Users/acapunay/Documents/Java Programming"
+  157  top
+  158  top -o cpu
+  159  clear
+  160  killall Boom
+  161  clear
+  162  top
+  163  top -o cpu
+  164  clear
+  165  top -o cpu
+  166  clear
+  167  top -o cpu
+  168  clear
+  169  javac Einstein.java
+  170  java Einstein
+  171  man(1)
+  172  appletviewer Einstein
+  173  man appletviewer
+  174  nano Einstein.html
+  175  appletviewer Einstein.html
+  176  nano Einstein.html
+  177  appletviewer Einstein.html
+  178  nano Einstein.html
+  179  appletviewer Einstein.html
+  180  nano Einstein.html
+  181  top -o cpu
+  182  nano Einstein.htm
+  183  nano Einstein.html
+  184  javac Snowman.java
+  185  appletviewer Snowman.html
+  186  nano Snowman.html
+  187  appletviewer Snowman.html
+  188  nano Snowman.html
+  189  appletviewer Snowman.html
+  190  nano GraphicalExercises.html
+  191  nano Snowman.html
+  192  javac GraphicalExercises.java
+  193  appletviewer GraphicalExercises.html
+  194  javac GraphicalExercises.java
+  195  appletviewer GraphicalExercises.html
+  196  top -o cpu
+  197  killall jEdit
+  198  clear
+  199  top -o cpu
+  200  killall jedit
+  201  killall Adobe
+  202  killall AdobeReader
+  203  top -o cpu
+  204  man top
+  205  top -o time
+  206  killall Terminal
+  207  cd "/Users/acapunay/Documents/Java Programming"
+  208  clear
+  209  man top
+  210  top -o msgsent
+  211  exit
+  212  Dcd "/Users/acapunay/Documents/Java Programming"
+  213  pwd
+  214  cd "/Users/acapunay/Documents/Java Programming"
+  215  whoami
+  216  top
+  217  top -o cpu
+  218  cd "/Users/acapunay/Documents/Java Programming"
+  219  man killall
+  220  clear
+  221  cd "/Users/acapunay/Documents/Java Programming"
+  222  top -o cpu
+  223  man ps
+  224  killall Terminal
+  225  cd "/Users/acapunay/Documents/Java Programming"
+  226  clear
+  227  nano Snowman.html
+  228  javac PP214.java
+  229  appletviewer PP214.html
+  230  javac PP214.java
+  231  appletviewer PP214.html
+  232  javac PP214.java
+  233  appletviewer PP214.html
+  234  javac PP214.java
+  235  appletviewer PP214.html
+  236  javac PP214.java
+  237  appletviewer PP214.html
+  238  javac PP214.java
+  239  appletviewer PP214.html
+  240  killall Safari
+  241  javac PP214.java
+  242  appletviewer PP214.html
+  243  javac PP214.java
+  244  appletviewer PP214.html
+  245  javac PP214.java
+  246  appletviewer PP214.html
+  247  javac PP214.java
+  248  appletviewer PP214.html
+  249  nano example
+  250  clear
+  251  exit
+  252  cd "/Users/acapunay/Documents/Java Programming"
+  253  javac L31.JAVA
+  254  javac L31.java
+  255  java L31
+  256  javac L31.java
+  257  java L31
+  258  javac L31.java
+  259  java L31
+  260  which java
+  261  java -version
+  262  javac RandomNumbers.java
+  263  java RandomNumbers
+  264  javac Quadratic.java
+  265  java Quadratic
+  266  javac Quadratic.java
+  267  java Quadratic
+  268  javac Quadratic.java
+  269  java Quadratic
+  270  javac Quadratic
+  271  javac Quadratic.java
+  272  java Quadratic
+  273  exit
+  274  cd "/Users/acapunay/Documents/Java Programming"
+  275  javac Purchase.java
+  276  java Purchase
+  277  javac Purchase.java
+  278  java Purchase
+  279  javac CircleStats.java
+  280  java CircleStats
+  281  javac IceCream.java
+  282  java IceCream
+  283  javac SelfReview330
+  284  javac SelfReview330.java
+  285  java SelfReview330
+  286  javac Username.java
+  287  javac PP31.java
+  288  java PP31
+  289  javac PP31.java
+  290  java PP31
+  291  javac PP31.java
+  292  java PP31
+  293  clear
+  294  exti
+  295  exit
+  296  cd "/Users/acapunay/Documents/Java Programming"
+  297  javac Age.java
+  298  java Age
+  299  clear
+  300  exit
+  301  Y
+  302  y
+  303  Y
+  304  clear
+  305  exit
+  306  defaults write com.apple.dock persistent-others-array-add'{"tile-data" = {"list-type" = 1; }; "tile-type" = "recents-tile";}'
+  307  cd "/Users/acapunay/Documents/Java Programming"
+  308  java Age
+  309  exit
+  310  cd "/Users/acapunay/Documents/Java Programming"
+  311  uname -a
+  312  exitg
+  313  exit
+  314  cd "/Users/acapunay/Documents/Java Programming"
+  315  javac Wages.java
+  316  java Wages
+  317  javac CoinFlip.java
+  318  javac Coint.java
+  319  javac Coin.java
+  320  javac CoinFlip.java
+  321  java CoinFlip
+  322  clear
+  323  javac Guessing.java
+  324  java Guessing
+  325  clear
+  326  killall Adobe
+  327  killall AdobeReader
+  328  killall JEdit
+  329  top
+  330  killall jedit
+  331  killall Safari
+  332  killall jedit
+  333  killall Terminal
+  334  cd "/Users/acapunay/Documents/Java Programming"
+  335  clear
+  336  javac MinOfThree.java
+  337  java MinOfThree
+  338  clear
+  339  javac Average.java
+  340  java Average
+  341  clear
+  342  javac WinPercentage.java
+  343  java WinPercentage
+  344  javac PalindromeTester.java
+  345  java PalindromeTester
+  346  clear
+  347  nano
+  348  javac URLDissection.java
+  349  java URLDissection
+  350  clear
+  351  nano urls.inp
+  352  java URLDissection
+  353  clear
+  354  javac Beatles.java
+  355  java Beatles
+  356  javac Beatles.java
+  357  java Beatles
+  358  javac Beatles.java
+  359  java Beatles
+  360  javac Beatles.java
+  361  java Beatles
+  362  clear
+  363  javac Beatles.java
+  364  java Beatles
+  365  killall AdobeReader
+  366  killall jedit
+  367  clear
+  368  exit
+  369  cd "/Users/acapunay/Documents/Java Programming"
+  370  javac LeftRight.java
+  371  javac LeftRightPanel.java
+  372  clear
+  373  javac LeapYear.java
+  374  javac Leapyear.java
+  375  java LeapYear
+  376  java Leapyear
+  377  java LeapYear
+  378  clear
+  379  javac LeapYearRepeated
+  380  javac LeapYearRepeated.java
+  381  java LeapYearRepeated
+  382  javac YearGiven
+  383  java LeapYearRepeated
+  384  javac LeapYearRepated.java
+  385  javac LeapYearRepeated.java
+  386  java LeapYearRepeated
+  387  clear
+  388  javac OddEvenZero.java
+  389  java OddEvenZero
+  390  javac OddEvenZero
+  391  javac OddEvenZero.java
+  392  java OddEvenZero
+  393  javac OddEvenZero.java
+  394  java OddEvenZero
+  395  javac OddEvenZero.java
+  396  clear
+  397  java OddEvenZero
+  398  javac PalindromeTesterModified.java
+  399  clear
+  400  javac PalindromeTesterModified.java
+  401  java PalindromeTesterModified
+  402  javac PalindromeTesterModified.java
+  403  java PalindromeTesterModified
+  404  javac PalindromeTesterModified.java
+  405  java PalindromeTesterModified
+  406  javac PalindromeTesterModified.java
+  407  java PalindromeTesterModified
+  408  javac PalindromeTesterModified.java
+  409  java PalindromeTesterModified
+  410  javac PalindromeTesterModified.java
+  411  java PalindromeTesterModified
+  412  javac PalindromeTesterModified.java
+  413  java PalindromeTesterModified
+  414  javac PalindromeTesterModified.java
+  415  java PalindromeTesterModified
+  416  javac PalindromeTesterModified.java
+  417  java PalindromeTesterModified
+  418  javac PalindromeTesterModified.java
+  419  java PalindromeTesterModified
+  420  javac PalindromeTesterModified.java
+  421  clear
+  422  javac PalindromeTesterModified.java
+  423  java PalindromeTesterModified
+  424  javac PalindromeTesterModified.java
+  425  java PalindromeTesterModified
+  426  javac PalindromeTesterModified.java
+  427  java PalindromeTesterModified
+  428  javac SlotMachine.java
+  429  clear
+  430  javac SlotMachine.java
+  431  java SlotMachine
+  432  clear
+  433  nano
+  434  java SlotMachine
+  435  y
+  436  clear
+  437  javac LookingForInts.java
+  438  java LookingForInts
+  439  javac LookingForInts.java
+  440  java LookingForInts
+  441  javac LookingForInts.java
+  442  java LookingForInts
+  443  nano LookingForInts.inp
+  444  java LookingForInts
+  445  javac LookingForInts.java
+  446  java LookingForInts
+  447  nano LookingForInts.inp
+  448  java LookingForInts
+  449  javac LookingForInts.java
+  450  java LookingForInts
+  451  javac LookingForInts.java
+  452  java LookingForInts
+  453  javac LookingForInts.java
+  454  java LookingForInts
+  455  nano LookingForInts.inp
+  456  javac LookingForInts.java
+  457  java LookingForInts
+  458  javac LookingForInts.java
+  459  java LookingForInts
+  460  javac LookingForInts.java
+  461  java LookingForInts
+  462  javac LookingForInts.java
+  463  java LookingForInts
+  464  javac LookingForInts.java
+  465  java LookingForInts
+  466  javac LookingForInts.java
+  467  java LookingForInts
+  468  javac LookingForInts.java
+  469  java LookingForInts
+  470  javac LookingForInts.java
+  471  java LookingForInts
+  472  javac LookingForInts.java
+  473  java LookingForInts
+  474  javac LookingForInts.java
+  475  java LookingForInts
+  476  javac LookingForInts.java
+  477  java LookingForInts
+  478  javac LookingForInts.java
+  479  java LookingForInts
+  480  javac LookingForInts.java
+  481  java LookingForInts
+  482  javac LookingForInts.java
+  483  java LookingForInts
+  484  javac LookingForInts.java
+  485  java LookingForInts
+  486  nano LookingForInts.inp
+  487  clear
+  488  exit
+  489  cd "/Users/acapunay/Documents/Java Programming"
+  490  javac GradeReport.java
+  491  java GradeReport
+  492  cd "/Users/acapunay/Documents/Java Programming"
+  493  javac ReverseNumber.java
+  494  java ReverseNumber
+  495  javac Multiples.java
+  496  java Multiples
+  497  clear
+  498  javac Stars.java
+  499  java Stars
+  500  javac EvenNumbers.java
+  501  java EvenNumbers
+  502  clear
+  503  java EvenNumbers
+  504  javac PrintingCharacters.java
+  505  java PrintingCharacters
+  506  clear
+  507  javac VowelsAndOthers.java
+  508  java VowelsAndOthers
+  509  javac VowelsAndOthers.java
+  510  java VowelsAndOthers
+  511  javac VowelsAndOthers.java
+  512  clear
+  513  java VowelsAndOthers
+  514  exit, clear
+  515  exit
+  516  cd "/Users/acapunay/Documents/Java Programming"
+  517  exit
+  518  cd "/Users/acapunay/Documents/Java Programming"
+  519  javac Slogan.java
+  520  java SloganCounter.java
+  521  javac SloganCounter.java
+  522  java SloganCounter
+  523  javac RationalNumber.java
+  524  javac RationalTester.java
+  525  clear
+  526  javac RationalTester.java
+  527  java RationalTester
+  528  clear
+  529  javac Address.java
+  530  javac Student.java
+  531  javac StudentBody.java
+  532  java StudentBody
+  533  exit
+  534  cd "/Users/acapunay/Documents/Java Programming"
+  535  java StudentBody
+  536  javac Complexity.java
+  537  javac Question.java
+  538  java Question.java
+  539  javac MiniQuiz.java
+  540  java MiniQuiz
+  541  exit, clear
+  542  quit
+  543  exit
+  544  cd "/Users/acapunay/Documents/Java Programming"
+  545  javac Season.java
+  546  javac SeasonTester.java
+  547  java SeasonTester
+  548  exit
+  549  sudo y
+  550  javac PigLatinTranslator.java
+  551  cd
+  552  pwd
+  553  cd /User/acapunay/Documents
+  554  list 
+  555  l
+  556  cd Users/acapunay/Documents
+  557  cd /Users/acapunay/Documents
+  558  l
+  559  cd /Users/acapunay/Documents/Java\ Programming
+  560  javac PigLatinTranslator.java
+  561  java PigLatin.java
+  562  javac PigLatin.java
+  563  java PigLatin
+  564  clear
+  565  java PigLatin
+  566  exit
+  567  cd "/Users/acapunay/Documents/Java Programming"
+  568  javac Num.java
+  569  javac ParameterModifier.java
+  570  javac ParameterTester.java
+  571  java ParameterTester
+  572  nano GraphicalExercises.html
+  573  javac IntroPanel.java
+  574  clear
+  575  javac IntroPanel.java
+  576  javac LayoutDemo.java
+  577  applet LayoutDemo.html
+  578  appletviewer LayoutDemo.html
+  579  clear
+  580  nano LayoutDemo.html
+  581  javac FlowPanel.java
+  582  appletviewer FlowPanel.html
+  583  javac LayoutDemo.java
+  584  clear
+  585  javac LayoutDemo.java
+  586  clear
+  587  javac LayoutDemo.java
+  588  clear
+  589  javac LayoutDemo.java
+  590  clear
+  591  javac *.java
+  592  javac BoxPanel.java
+  593  javac GridPanel.java
+  594  javac BorderPanel.java
+  595  appletviewer LayoutDemo.java
+  596  appletviewer LayoutDemo.html
+  597  javac LayoutDemo.java
+  598  appletviewer LayoutDemo.html
+  599  javac LayoutDemo.java
+  600  appletviewer LayoutDemo.html
+  601  cleaer
+  602  clear
+  603  javac BorderDemo.java
+  604  java BorderDemo
+  605  java LayoutDemo
+  606  java BorderDemo
+  607  clear
+  608  exit
+  609  cd "/Users/acapunay/Documents/Java Programming"
+  610  javac StudentV2.java
+  611  clear
+  612  exit
+  613  cd "/Users/acapunay/Documents/Java Programming"
+  614  javac StudentV2.java
+  615  javac Student.java
+  616  clear
+  617  javac Student.java
+  618  javac StudentBody.java
+  619  java StudentBody
+  620  javac StudentBody.java
+  621  java StudentBody
+  622  javac StudentBody.java
+  623  java StudentBody
+  624  clear
+  625  javac Course.java
+  626  clear
+  627  javac Course.java
+  628  clear
+  629  javac Course.java
+  630  clear
+  631  javac Course.java
+  632  clear
+  633  exit
+  634  cd "/Users/acapunay/Documents/Java Programming"
+  635  javac Student.java
+  636  javac Course.java
+  637  clear
+  638  javac TestingCourseClass.java
+  639  java TestingCourseClass
+  640  javac Course.java
+  641  java TestingCourseClass
+  642  javac Course.java
+  643  javac TestingCourseClass.java
+  644  java TestingCourseClass
+  645  clear
+  646  javac TestingCourseClass.java
+  647  java TestingCourseClass
+  648  javac TestingCourseClass.java
+  649  javac Course.java
+  650  javac Student.java
+  651  javac TestingCourseClass.java
+  652  java TestingCourseClass
+  653  clear
+  654  javac Course.java
+  655  javac TestingCourseClass.java
+  656  java TestingCourseClass
+  657  exit
+  658  cd "/Users/acapunay/Documents/Java Programming"
+  659  exit
+  660  cd "/Users/acapunay/Documents/Java Programming"
+  661  javac Priority.java
+  662  javac Lockable.java
+  663  javac NewCoin.java
+  664  clear
+  665  javac NewCoin.java
+  666  clear
+  667  javac NewCoin.java
+  668  javac NewCoinTester.java
+  669  clear
+  670  javac NewCoinTester.java
+  671  java NewCoinTester
+  672  javac NewCoin.java
+  673  java NewCoinTester
+  674  javac NewCoinTester.java
+  675  java NewCoinTester
+  676  javac NewCoinTester.java
+  677  java NewCoinTester
+  678  clear
+  679  javac NewCoinTester.java
+  680  java NewCoinTester
+  681  javac NewCoinTester.java
+  682  clear
+  683  java NewCoinTester
+  684  clear
+  685  exit
+  686  cd "/Users/acapunay/Documents/Java Programming"
+  687  javac ReverseOrder.java
+  688  java ReverseOrder
+  689  javac LetterCount.java
+  690  java LetterCount
+  691  clear
+  692  javac Primes.java
+  693  java Primes
+  694  javac Grade.java
+  695  javac GradeRange.java
+  696  java GradeRange
+  697  javac DVDCollection.java
+  698  javac Movies.java
+  699  java Movies
+  700  javac NameTag.java
+  701  java NameTag Hello Bill
+  702  java NameTag Hello Bill Y que mas
+  703  java NameTag Hello
+  704  java NameTag Howdy Kali
+  705  clear
+  706  javac Family.java
+  707  javac VariableParameters.java
+  708  java VariableParameters
+  709  exit
+  710  cd "/Users/acapunay/Documents/Java Programming"
+  711  javac TwoDArray.java
+  712  java TwoDArray
+  713  javac SodaSurvey.java
+  714  java SodaSurvey
+  715  javac DotsPanel.java
+  716  java DotsPanel
+  717  clear
+  718  exit,
+  719  exit
+  720  cd "/Users/acapunay/Documents/Java Programming"
+  721  exit
+  722  cd "/Users/acapunay/Documents/Java Programming"
+  723  mysql -u root
+  724  mysql
+  725  cd
+  726  cd "/Users/acapunay/Documents/Java Programming"
+  727  echo $BASH_VERSION
+  728  help pushd
+  729  ?pushd
+  730  ?list
+  731  list
+  732  brew install git
+  733  bash
+  734  echo $SHELL
+  735  bash
+  736  whereis bash
+  737  chsh /bin/bash
+  738  sudo chsh /bin/bsh
+  739  sudo chsh /bin/bash
+  740  chsh /bin/bash
+  741  whereis bash
+  742  chsh /acapunay/local/bin/bash
+  743  usermod -s /bin/bash acapunay
+  744  exec bash
+  745  cd "/Users/acapunay/Documents/Java Programming"
+  746  chsh -s /bin/bash
+  747  exit
+  748  echo $SHELL $BASH
+  749  echo $SHELL
+  750  echo $BASH
+  751  exit
+  752  ls
+  753  gcloud init
+  754  gcloud auth list
+  755  gcloud config list
+  756  gcloud info
+  757  gcloud compute ssh w266
+  758  gcloud compute ssh --ssh-flag='-L 8896:127.0.0.1:8896" --ssh-flag="-L 6006:127.0.0.1:6006" acapunay@w266\nls\n"\n"""
+  759  gcloud compute ssh --ssh-flag="-L 8896:127.0.0.1:8896" --ssh-flag="-L 6006:127.0.0.1:6006" acapunay@w266
+  760  alias w266-jupyter-notebook="^[[200~gcloud compute ssh --ssh-flag="-L 8896:127.0.0.1:8896" --ssh-flag="-L 6006:127.0.0.1:6006" <vm-username>@<instance-name>
+  761  alias w266-jupyter-notebook='gcloud compute ssh --ssh-flag="-L 8896:127.0.0.1:8896" --ssh-flag="-L 6006:127.0.0.1:6006" acapunay@w266'
+  762  w266-jupyter-notebook
+  763  exit
+  764  ls
+  765  cd Google\ Drive
+  766  ls
+  767  cd education
+  768  ls
+  769  cd berkeley_mids
+  770  ls
+  771  cd w266_natural_language_processing_with_deep_learning
+  772  git clone https://github.com/datasci-w266/2020-fall-main.git ~/w266
+  773  ls
+  774  cd ..
+  775  ls
+  776  cd ..
+  777  ls
+  778  cd ..
+  779  ls
+  780  cd ..
+  781  ls
+  782  rm w266
+  783  rm -rf w266
+  784  ls
+  785  cd Google\ Drive
+  786  cd education/berkeley_mids/w266_natural_language_processing_with_deep_learning
+  787  git clone https://github.com/datasci-w266/2020-fall-main.git
+  788  ls
+  789  git
+  790  git config
+  791  git config --global
+  792  git info
+  793  git config --list
+  794  w266-jupyter-notebook
+  795  cd ..
+  796  cd ~
+  797  w266-jupyter-notebook
+  798  alias
+  799  alias w266-jupyter-notebook='gcloud compute ssh --ssh-flag="-L 8896:127.0.0.1:8896" --ssh-flag="-L 6006:127.0.0.1:6006" acapunay@w266'\n
+  800  alias
+  801  exit
+  802  alias
+  803  sublime .zshrc
+  804  alias
+  805  cd Google
+  806  cd Google\ Drive
+  807  cd education/berkeley_mids/w266_natural_language_processing_with_deep_learning
+  808  rm -rf 2020-fall-main
+  809  ls
+  810  exit
+  811  w266-jupyter-notebook
+  812  exit
+  813  ls
+  814  alias
+  815  w266-jupyter-notebook
+  816  exit
+  817  cd Google\ Drive
+  818  cd education/galvanize
+  819  ls
+  820  touch sales.db
+  821  sqlite3 sales.db
+  822  cd Google\ Drive
+  823  cd education/galvanize
+  824  ls
+  825  cat sales.sql 
+  826  sublime sales.sql
+  827  vscode sales.sql
+  828  code sales.sql
+  829  vs sales.sql
+  830  exit
+  831  ls
+  832  touch world.db
+  833  sqlite3 world.db
+  834  touch animalshp.db
+  835  cat animalshp.sql
+  836  sqlite3 animalshp.db
+  837  sqlite3 world.db
+  838  sqlite3 animalshp.db
+  839  sqlite3 world.db
+  840  ls
+  841  alias
+  842  history | grep "alias"
+  843  history | grep "nano"
+  844  cd ..
+  845  ls
+  846  cd berkeley_mids
+  847  ls
+  848  cd w266_natural_language_processing_with_deep_learning
+  849  ls
+  850  w266-jupyter-notebook
+  851  ls
+  852  w266-jupyter-notebook
+  853  alias
+  854  w266-jupyter-notebook 
+  855  exit
+  856  jupyter notebook
+  857  w266-jupyter-notebook
+  858  exit
+  859  jupyter notebook
+  860  python --version
+  861  ls
+  862  cd Google\ Drive/
+  863  ls
+  864  cd education/galvanize
+  865  ls
+  866  cd week1
+  867  ls
+  868  mkdir unix
+  869  mv *.txt *.py *.csv ./git
+  870  ls
+  871  cd ./git
+  872  ls
+  873  mv cool_demo.txt demo.txt main.py zillow.csv ../unix/
+  874  ls
+  875  cd ..
+  876  ls
+  877  cd unix
+  878  las
+  879  ls
+  880  cd ..
+  881  ls
+  882  cd git
+  883  mkdir demo
+  884  cd demo
+  885  ls
+  886  touch {a,b,c}.py
+  887  ls
